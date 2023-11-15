@@ -7,14 +7,14 @@
 
 🪄 Si quieres que tu empresa o consultora de RRHH aparezca en la lista, no dudes en contactarme para incorporarlos en el siguiente repositorio, ¡NOS VEMOS EN LA PRÓXIMA!
 
-![Empresas](../PartnersReferidos/img/empresas.png)
+![Empresas](img/empresas.png)
 
 
 📢 **Programa de referidos**
 
 💫 Lanzamos el programa de referidos para el sector IT, si estás buscando incorporar talento calificado a tu empresa; Contáctame para obtener más detalles o para compartir nombres de posibles candidatos. 
 
-![Referidos](../PartnersReferidos/img/referidos.png)
+![Referidos](img/referidos.png)
 
 
 ## Consejos y Recursos 🪄
